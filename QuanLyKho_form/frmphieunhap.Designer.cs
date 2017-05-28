@@ -64,6 +64,8 @@
             this.btnxoa = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.btnsuachitiet = new System.Windows.Forms.Button();
+            this.btnxoachitiet = new System.Windows.Forms.Button();
             this.btnluuchitiet = new System.Windows.Forms.Button();
             this.btnthemchitiet = new System.Windows.Forms.Button();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
@@ -71,8 +73,6 @@
             this.cmbmapn = new System.Windows.Forms.ComboBox();
             this.label15 = new System.Windows.Forms.Label();
             this.dgvchitietpn = new System.Windows.Forms.DataGridView();
-            this.btnxoachitiet = new System.Windows.Forms.Button();
-            this.btnsuachitiet = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvphieunhap)).BeginInit();
             this.gbTimKiem.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -192,6 +192,7 @@
             this.txtmapn.Name = "txtmapn";
             this.txtmapn.Size = new System.Drawing.Size(198, 20);
             this.txtmapn.TabIndex = 25;
+            this.txtmapn.TextChanged += new System.EventHandler(this.txtmapn_TextChanged);
             // 
             // label1
             // 
@@ -441,6 +442,34 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Thao tác với chi tiết phiếu nhập";
             // 
+            // btnsuachitiet
+            // 
+            this.btnsuachitiet.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnsuachitiet.Image = global::QuanLyKho_form.Properties.Resources.application_edit;
+            this.btnsuachitiet.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnsuachitiet.Location = new System.Drawing.Point(95, 24);
+            this.btnsuachitiet.Name = "btnsuachitiet";
+            this.btnsuachitiet.Size = new System.Drawing.Size(69, 49);
+            this.btnsuachitiet.TabIndex = 50;
+            this.btnsuachitiet.Text = "Sửa";
+            this.btnsuachitiet.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnsuachitiet.UseVisualStyleBackColor = false;
+            this.btnsuachitiet.Click += new System.EventHandler(this.btnsuachitiet_Click);
+            // 
+            // btnxoachitiet
+            // 
+            this.btnxoachitiet.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnxoachitiet.Image = global::QuanLyKho_form.Properties.Resources.remove;
+            this.btnxoachitiet.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnxoachitiet.Location = new System.Drawing.Point(15, 89);
+            this.btnxoachitiet.Name = "btnxoachitiet";
+            this.btnxoachitiet.Size = new System.Drawing.Size(68, 40);
+            this.btnxoachitiet.TabIndex = 49;
+            this.btnxoachitiet.Text = "Xóa";
+            this.btnxoachitiet.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnxoachitiet.UseVisualStyleBackColor = false;
+            this.btnxoachitiet.Click += new System.EventHandler(this.btnxoachitiet_Click);
+            // 
             // btnluuchitiet
             // 
             this.btnluuchitiet.BackColor = System.Drawing.SystemColors.ActiveCaption;
@@ -535,34 +564,6 @@
             this.dgvchitietpn.Size = new System.Drawing.Size(522, 151);
             this.dgvchitietpn.TabIndex = 53;
             this.dgvchitietpn.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvchitietpn_CellClick);
-            // 
-            // btnxoachitiet
-            // 
-            this.btnxoachitiet.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnxoachitiet.Image = global::QuanLyKho_form.Properties.Resources.remove;
-            this.btnxoachitiet.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnxoachitiet.Location = new System.Drawing.Point(15, 89);
-            this.btnxoachitiet.Name = "btnxoachitiet";
-            this.btnxoachitiet.Size = new System.Drawing.Size(68, 40);
-            this.btnxoachitiet.TabIndex = 49;
-            this.btnxoachitiet.Text = "Xóa";
-            this.btnxoachitiet.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnxoachitiet.UseVisualStyleBackColor = false;
-            this.btnxoachitiet.Click += new System.EventHandler(this.btnxoachitiet_Click);
-            // 
-            // btnsuachitiet
-            // 
-            this.btnsuachitiet.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnsuachitiet.Image = global::QuanLyKho_form.Properties.Resources.application_edit;
-            this.btnsuachitiet.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnsuachitiet.Location = new System.Drawing.Point(95, 24);
-            this.btnsuachitiet.Name = "btnsuachitiet";
-            this.btnsuachitiet.Size = new System.Drawing.Size(69, 49);
-            this.btnsuachitiet.TabIndex = 50;
-            this.btnsuachitiet.Text = "Sửa";
-            this.btnsuachitiet.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnsuachitiet.UseVisualStyleBackColor = false;
-            this.btnsuachitiet.Click += new System.EventHandler(this.btnsuachitiet_Click);
             // 
             // frmphieunhap
             // 

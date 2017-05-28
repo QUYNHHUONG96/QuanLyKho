@@ -369,5 +369,10 @@ namespace QuanLyKho_form
             soluong = txtslthuc.Text;
             them = false;
         }
+
+        private void txtmapn_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
