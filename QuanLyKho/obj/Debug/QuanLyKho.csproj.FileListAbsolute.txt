@@ -1,0 +1,10 @@
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb

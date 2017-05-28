@@ -1,0 +1,56 @@
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_form.exe.config
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_form.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_form.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmnhanvien.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.Properties.Resources.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.csproj.GenerateResource.Cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.pdb
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_BUS.exe
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_DAL.exe
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_Entity.exe
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_BUS.pdb
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_DAL.pdb
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_Entity.pdb
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmdangnhap.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmmain.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmphieunhap.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmloaihang.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmnhacc.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmkhachhang.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmphieuxuat.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmdoimk.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmthongke.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmkhohang.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmHuongDan.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmChonLoaiHang.resources
+C:\Users\Quynh Huong\Documents\Visual Studio 2015\Projects\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmNguoiDung.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_form.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_form.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_form.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_BUS.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_DAL.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_Entity.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_BUS.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_DAL.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\bin\Debug\QuanLyKho_Entity.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmChonLoaiHang.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmdangnhap.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmdoimk.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmHuongDan.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmkhohang.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmkhachhang.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmloaihang.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmmain.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmNguoiDung.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmnhacc.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmnhanvien.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmphieunhap.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmphieuxuat.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.frmthongke.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_form\obj\Debug\QuanLyKho_form.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_DAL.exe.config
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_DAL.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_DAL.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_Entity.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_Entity.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.csprojResolveAssemblyReference.cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.Properties.Resources.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.csproj.GenerateResource.Cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_DAL.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_DAL.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_DAL.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_Entity.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\bin\Debug\QuanLyKho_Entity.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.csproj.GenerateResource.Cache
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_DAL\obj\Debug\QuanLyKho_DAL.pdb

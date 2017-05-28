@@ -1,0 +1,24 @@
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_BUS.exe.config
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_BUS.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_BUS.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_DAL.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_Entity.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_DAL.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_Entity.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.csprojResolveAssemblyReference.cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.Properties.Resources.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.csproj.GenerateResource.Cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_BUS.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_BUS.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_BUS.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_DAL.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_Entity.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_DAL.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\bin\Debug\QuanLyKho_Entity.pdb
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.csproj.GenerateResource.Cache
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.exe
+C:\Users\Quynh Huong\Documents\GitHub\QuanLyKho\QuanLyKho_BUS\obj\Debug\QuanLyKho_BUS.pdb
